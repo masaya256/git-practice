@@ -1,5 +1,5 @@
 # git-practice
-このリポジトリはGit動画講座用です．
+This file is for practice git 
 Edit from local repo
 new line!               
 written from new-feature
