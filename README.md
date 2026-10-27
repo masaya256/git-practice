@@ -1,6 +1,4 @@
 # git-practice
-This file is for practice git 
+This file is for practice 
 Edit from local repo
-new line!               
-written from new-feature
-this is from no-fast-forwar'branch 
+this is modified and leads conflict
