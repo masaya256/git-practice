@@ -1,7 +1,4 @@
 # git-practice
 This file is for practice 
-new line
-edited on github
-updated on local again 
-
+I added new-feature branch and this is the latest one
 END
